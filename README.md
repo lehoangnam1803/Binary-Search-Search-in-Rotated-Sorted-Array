@@ -27,4 +27,5 @@ Given the array nums after the possible rotation and an integer target, return t
   - -104 <= target <= 104
   - All values of nums are unique.
   - nums is an ascending array that is possibly rotated.
-- Source: https://leetcode.com/explore/learn/card/binary-search/125/template-i/952/
+- Source post: https://leetcode.com/explore/learn/card/binary-search/125/template-i/952/
+- Source code by: https://leetcode.com/explore/learn/card/binary-search/125/template-i/952/discuss/14425/Concise-O(log-N)-Binary-search-solution
